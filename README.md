@@ -4,7 +4,12 @@
 
 ## Curso: Desenvolvimento de sistemas - turma i1hn - sesi nova odessa
 
-esta pagina tem como objetivo testar o mark down
+**esta pagina tem como objetivo testar o mark down**
 
+*paralelepipedo*
+
+~~-samuel~~
+
+***samuel baek***                                                                                                                                                                                                                                                                                  
 
 
